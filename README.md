@@ -6,7 +6,8 @@ NorthWind is MS created DB schema for SQL demonstration, original NorthWind is d
 1. http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/ 
 2. https://github.com/tmcnab/northwind-mongo
   Convert from SQL to CSV then mongoDB
-3.
+3. https://github.com/dalers/mywind <== Converted to mysql format (Worked for me)
+4. 
 
 ## DB Schema
    ![Alt](/images/Northwind.png "Title")
